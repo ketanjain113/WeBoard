@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeBoard</title>
+    <link rel="stylesheet" href="Index.css">
+    <link rel="manifest" href="/package.json">
+    <link rel="favicon" sizes="180x180" href="/whiteboard.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/whiteboard.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/whiteboard.png">
+</head>
+
+<body>
+    <div class="toolbar">
+        <button id="clearButton">Clear!</button>
+        <img src="color.png" height="30px" width="30px" id="Pen" style="margin-right: 5px;">
+        <input type="color" id="colorPicker" value="#000000">
+    </div>
+
+    <div class="selector">
+        <button id="Pencil"><img src="icon1.png" height="30px" width="30px"></button>
+        <button id="Highlighter"><img src="Highlighter.png" height="30px" width="30px"></button>
+    </div>
+
+    <canvas id="fullPageCanvas"></canvas>
+
+    <script src="Index.js"></script>
+
+</body>
+
+</html>
