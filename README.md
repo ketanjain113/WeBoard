@@ -35,6 +35,8 @@ git clone https://github.com/yourusername/WeBoard.git
 - Choose your preferred drawing tool from the toolbar.
 - Start drawing on the canvas using your mouse or touch input (for touch-enabled devices).
 
+  ![WeBoard Preview](WeBoard/whiteboard.png)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and create a pull request with your proposed changes.
