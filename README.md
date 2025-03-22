@@ -1,6 +1,5 @@
 # WeBoard
-
-![WeBoard Preview](WeBoard/whiteboard.png)
+<img src="WeBoard/whiteboard.png" alt="Description" width="300" height="300">
 
 The WeBoard is a user-friendly platform that allows individuals to unleash their creativity by drawing and sketching online. With its intuitive interface and versatile drawing tools, users can express themselves, brainstorm ideas, and create artwork at their own pace. Whether you're a professional artist, hobbyist, or educator, this web app provides a seamless and enjoyable drawing experience for users of all skill levels.
 
