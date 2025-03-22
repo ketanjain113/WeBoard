@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/WeBoard.git
 
 ## Usage
 
-- Open `index.html` in your web browser to launch the web app or just go to https://whimsical-tapioca-966d6c.netlify.app/.
+- Open `index.html` in your web browser to launch the web app.
 - Choose your preferred drawing tool from the toolbar.
 - Start drawing on the canvas using your mouse or touch input (for touch-enabled devices).
 
