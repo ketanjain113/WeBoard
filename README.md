@@ -34,8 +34,7 @@ git clone https://github.com/yourusername/WeBoard.git
 - Choose your preferred drawing tool from the toolbar.
 - Start drawing on the canvas using your mouse or touch input (for touch-enabled devices).
 
-  ![WeBoard Preview](SS.png)
-<img src="SS.png" alt="Description" width="800" height="600">
+<img src="SS.png" alt="Description" width="960" height="540">
 
 ## Contributing
 
