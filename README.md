@@ -1,5 +1,5 @@
 # WeBoard
-<img src="WeBoard/whiteboard.png" alt="Description" width="300" height="300">
+<img src="WeBoard/whiteboard.png" alt="Description" width="250" height="250">
 
 The WeBoard is a user-friendly platform that allows individuals to unleash their creativity by drawing and sketching online. With its intuitive interface and versatile drawing tools, users can express themselves, brainstorm ideas, and create artwork at their own pace. Whether you're a professional artist, hobbyist, or educator, this web app provides a seamless and enjoyable drawing experience for users of all skill levels.
 
@@ -35,6 +35,7 @@ git clone https://github.com/yourusername/WeBoard.git
 - Start drawing on the canvas using your mouse or touch input (for touch-enabled devices).
 
   ![WeBoard Preview](SS.png)
+<img src="SS.png" alt="Description" width="800" height="600">
 
 ## Contributing
 
